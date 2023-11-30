@@ -1,4 +1,4 @@
-### Hi there, I', Shami 👋
+### Hi there, I'm Shami 👋
 
 #### Roles
 * :technologist: Project Scientist at UC Riverside, contributing to +JWST ERS-transit (https://ers-transit.github.io/)
