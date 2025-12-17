@@ -1,7 +1,8 @@
 ### Hi there, I'm Shami 👋
 
 #### Roles
-* :technologist: Project Scientist at UC Riverside, contributing to +JWST ERS-transit (https://ers-transit.github.io/)
+* :technologist: April, 2025 -- Assistent Research Fellow at [ASIAA]([URL](https://www.asiaa.sinica.edu.tw/people/cv.php?i=smtsai)) 
+* contributing to +JWST ERS-transit (https://ers-transit.github.io/)
 and +GEMS (https://gemsjwst.github.io/)
 
 * 🔭 Research interests in exoplanet atmospheres & astrobiology
